@@ -6,9 +6,14 @@
 package variejer1;
 
 /**
- *
- * @author estiben beltran
+ * Este programaa permite saber cual es el porcentaje de alumnos
+ * del salon 301 que son menores de edad, teniedno en total 240 alumno, 
+ * donde 35 de ellos son los menores de edad
+ * @version 1.0
+ * @author Dairo Estiben Beltran Martinez
+ * 
  */
+// 
 class Estudiantes{
     int estudiantes = 240;
     int menores = 35;

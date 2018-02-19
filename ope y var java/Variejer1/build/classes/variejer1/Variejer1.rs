@@ -1,2 +1,0 @@
-variejer1.Variejer1
-variejer1.Estudiantes
